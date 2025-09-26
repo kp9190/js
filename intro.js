@@ -1,24 +1,27 @@
 
 
-// console.log("patel");
+//console.log("patel");
 
+// num = 10;
 
-// console.error("This is Error Mess");
+// if(num==6){
+//     console.error("This is Error Mess");
+// }
     
 
 // console.warn("this is warning Mess");
 
-// var num= [11,12,13];
-
-// console.info(num);
-
-
-// console.table(num);
+// num= [11,12,13];
+// ch = "kenil";
+//console.info(num);
 
 
-document.write("<h1>This is JS sesstion</h1>");
-document.write("<h1>This is my First Sesstion</h1>");
+// console.table(ch);
 
+
+// document.write("This is my Js Sesstion!");
+// document.write("<h1>This is my First Sesstion</h1>");
+// document.write("<i>item</i>");
 
 // Task 1 : print your Bio Data using the documnet.write
 
