@@ -1,6 +1,6 @@
 
 
-//console.log("patel");
+console.log("patel");
 
 // num = 10;
 
@@ -16,10 +16,10 @@
 //console.info(num);
 
 
-// console.table(ch);
+// console.table(num);
 
 
-// document.write("This is my Js Sesstion!");
+// document.writeln("This is my Js Sesstion!");
 // document.write("<h1>This is my First Sesstion</h1>");
 // document.write("<i>item</i>");
 

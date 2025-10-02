@@ -4,9 +4,12 @@
 
 
 // number
-// num=true;
 
+// num=1324567894653219484132;
+// number = 9990903874023795374074021709n;
+// console.log(number);
 // console.log(num);
+// console.log(typeof number);
 // console.log(typeof num);
 
 //string 
@@ -29,7 +32,7 @@
 
 // null vs undefined
 
-// var num;
+// var num=null;
 // console.log(num);
 
 

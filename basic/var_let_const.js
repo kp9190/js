@@ -35,7 +35,7 @@
 // let num = 10;
 // var num1 = 20;
 
-// console.log(num1);
+// console.log(num);
 
 // var num1 = 30;
 // let num = 40; 
@@ -65,11 +65,11 @@
 // console.log(num_019);
 // console.log($num1);
 
-let num =10;
+// let num =10;
 
-console.log(num);
-num = 20;
-console.log(num);
+// console.log(num);
+// num = 20;
+// console.log(num);
 
 
 
