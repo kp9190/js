@@ -27,13 +27,15 @@
 //     let num = 12;
 //     var num1 = 10;
 //     console.log(num1);
-//     console.log(num);
+
+//     let num =12;
+//     console.log(num1);
 
 // }
 
 
-// let num = 10;
-// var num1 = 20;
+// let num = 13;
+// // var num1 = 20;
 
 // console.log(num);
 

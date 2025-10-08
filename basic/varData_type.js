@@ -1,6 +1,18 @@
 // document.write("hello");
 
-// number , string , boolean, typeof operator, null, undefined
+// number , string , boolean, typeof operator, null, undefined, Bigint
+
+// string  "" ''  ``
+// number 0 to 9 
+// boolena  T & F 
+// typeof --> to find type 
+// null --> em
+// undefined --> va;ue not assing
+// bigint
+var num1 = 123456789546789456456n;
+console.log(num1);
+console.log(typeof num1);
+
 
 
 // number

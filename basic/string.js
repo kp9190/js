@@ -66,11 +66,11 @@
 // console.log(user1);
 // console.log(user2);
 
-let num1 =undefined;
-console.log(typeof null);
+// let num1 =undefined;
+// console.log(typeof null);
 
 
 
 // function add();
-console.log(typeof num1);
-console.log(num1);
+// console.log(typeof num1);
+// console.log(num1);
