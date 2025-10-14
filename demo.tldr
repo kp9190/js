@@ -36,9 +36,9 @@
 		{
 			"id": "pointer:pointer",
 			"typeName": "pointer",
-			"x": 77.43541303653564,
-			"y": 385.5884217086617,
-			"lastActivityTimestamp": 1759924490324,
+			"x": -205.30096201503383,
+			"y": 353.3685637114733,
+			"lastActivityTimestamp": 1760445487982,
 			"meta": {}
 		},
 		{
@@ -88,8 +88,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 77.43541303653564,
-			"y": 385.5884217086617,
+			"x": -263.7991661675056,
+			"y": 301.6378797767559,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -181,15 +181,15 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 300.7489286075282,
-			"y": 202.4833622905693,
-			"z": 0.6892582751536833,
+			"x": 375.91824219804886,
+			"y": 146.38454531389317,
+			"z": 0.81,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
 		},
 		{
-			"editingShapeId": "shape:DchYOdd75IZN5JnCHKf4V",
+			"editingShapeId": null,
 			"croppingShapeId": null,
 			"selectedShapeIds": [
 				"shape:DchYOdd75IZN5JnCHKf4V"
@@ -558,9 +558,7 @@
 		{
 			"followingUserId": null,
 			"opacityForNextShape": 1,
-			"stylesForNextShape": {
-				"tldraw:geo": "rectangle"
-			},
+			"stylesForNextShape": {},
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
@@ -574,8 +572,8 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 845.3333740234375,
-				"h": 566
+				"w": 781.6000366210938,
+				"h": 702.4000244140625
 			},
 			"insets": [
 				false,
@@ -590,7 +588,7 @@
 			"isChatting": false,
 			"highlightedUserIds": [],
 			"isFocused": true,
-			"devicePixelRatio": 1.5,
+			"devicePixelRatio": 1.25,
 			"isCoarsePointer": false,
 			"isHoveringCanvas": true,
 			"openMenus": [],
