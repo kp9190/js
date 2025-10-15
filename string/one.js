@@ -112,10 +112,45 @@ var str1 = "My Name is Rajesh"; // h
 
 
 
+// var str= "is a versatile programming language used in web development. It allows developers to build dynamic and interactive websites. Learning JavaScript opens doors to many career opportunities.";
 
 
+// Find the length of the paragraph.
+// → Which string method can you use?
+// console.log(str.length);
 
 
+// Convert the entire paragraph to uppercase.
+// → What method transforms all characters to uppercase?
+// console.log(str.toUpperCase());
+
+// Check if the word "JavaScript" appears in the paragraph.
+// → Which method helps you find or check substrings?
+
+
+// Find the index of the first occurrence of the word "developers".
+
+// Extract the first sentence from the paragraph.
+// (Hint: Use a method that finds the position of a period, then extract up to that point.)
+
+// Replace the word "versatile" with "powerful".
+
+// Check if the paragraph ends with the word "opportunities."
+
+// Count how many times the word "JavaScript" appears.
+
+// var count = str.split("JavaScript").length - 1;
+// console.log(str.split("JavaScript"));
+
+// var demo = " "
+// console.log(count);
+
+
+var str = "this is Neha Kapadi,this is kenil patel, this is rajesh";
+// console.log(str.indexOf("a"));
+// console.log(str.lastIndexOf("a"));
+
+console.log(str.split("this").length);
 
 
 

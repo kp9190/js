@@ -1,6 +1,6 @@
 // document.write("hello");
 
-// number , string , boolean, typeof operator, null, undefined, Bigint
+// number , string , boolean, typeof operator, null, undefined, BigInt
 
 // string  "" ''  ``
 // number 0 to 9 
@@ -19,8 +19,8 @@ console.log(typeof num1);
 
 // num=1324567894653219484132;
 // number = 9990903874023795374074021709n;
-// console.log(number);
-// console.log(num);
+// console.log(num1);
+// console.log(num1);
 // console.log(typeof number);
 // console.log(typeof num);
 

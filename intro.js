@@ -1,6 +1,9 @@
 
 
-console.log("patel");
+// console.log("patel");
+// console.error("this not valid!");
+// console.warn("this is wornig mess");
+
 
 // num = 10;
 
@@ -13,13 +16,14 @@ console.log("patel");
 
 // num= [11,12,13];
 // ch = "kenil";
-//console.info(num);
+// console.info(ch);
 
 
 // console.table(num);
 
 
-// document.writeln("This is my Js Sesstion!");
+
+// document.writeln("This is my Js Session!");
 // document.write("<h1>This is my First Sesstion</h1>");
 // document.write("<i>item</i>");
 

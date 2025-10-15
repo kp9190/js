@@ -1,0 +1,43 @@
+1. First & Last Character
+
+Get the first and last character of a string.
+Methods: charAt()
+
+2. Count Occurrences of a Character
+
+Count how many times the letter "a" appears in "banana".
+Methods: split(), length
+
+3. Check Word Presence
+
+Check if "code" exists in "I love coding in JavaScript".
+Methods: includes()
+
+4. Replace All Vowels with “*”
+
+Replace every vowel (a, e, i, o, u) in "developer" with *.
+Methods: replaceAll()
+
+5. Extract a Substring
+
+Extract "Script" from "JavaScript".
+Methods: slice(), substring()
+
+6. Trim Extra Spaces
+
+Clean up " Hello World " to "Hello World".
+Methods: trim(), trimStart(), trimEnd()
+
+7. Check File Extension
+
+Verify if "photo.png" ends with ".png".
+Methods: endsWith()
+
+8. Find Word Position
+Find where the word "fun" starts in "Coding is fun and creative".
+Methods: indexOf()
+
+9. Convert to Uppercase / Lowercase
+
+Turn "Hello World" into "HELLO WORLD" and "hello world".
+Methods: toUpperCase(), toLowerCase()
