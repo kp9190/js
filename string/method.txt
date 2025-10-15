@@ -1,0 +1,30 @@
+=> Return type → String
+
+toUpperCase()
+toLowerCase()
+trim()
+trimStart() / trimLeft()
+trimEnd() / trimRight()
+slice()
+substring()
+substr() 
+replace()
+replaceAll()
+charAt()
+
+
+=> Return type → Number
+
+indexOf()
+lastIndexOf()
+charCodeAt()
+
+=> Return type → Boolean
+
+includes()
+startsWith()
+endsWith()
+
+=> Return type → Array / Object
+
+split()

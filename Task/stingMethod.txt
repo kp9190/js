@@ -16,7 +16,7 @@ Methods: includes()
 4. Replace All Vowels with “*”
 
 Replace every vowel (a, e, i, o, u) in "developer" with *.
-Methods: replaceAll()
+Methods: replaceAll(),
 
 5. Extract a Substring
 

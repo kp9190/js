@@ -150,7 +150,14 @@ var str = "this is Neha Kapadi,this is kenil patel, this is rajesh";
 // console.log(str.indexOf("a"));
 // console.log(str.lastIndexOf("a"));
 
-console.log(str.split("this").length);
+// console.log(str.split("this").length);
 
 
+
+// console.log("JavaScript".slice(4,9));
+
+// Replace every vowel (a, e, i, o, u) in "developer" with *.
+// Methods: replaceAll(),
+
+console.log("developer".replaceAll('e','*').replaceAll('i','*').replaceAll('o','*').replaceAll('a','*'));
 
