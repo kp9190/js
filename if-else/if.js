@@ -59,6 +59,23 @@
 //      C = 70 +
 //      D = 60 +
 //      50< fail
+
+var age = 21;
+
+// if(age >=18){
+//     console.log("you can drive.");
+// }else{
+//     console.log("you cannot drive.");
+// }
+
+// var message = age >=18 ? "you can drive." : "you cannot drive.";
+age >=18 ? console.log("you can drive.") : console.log("you cannot drive.");
+
+// console.log(message);
+
+
+
+
 // 
 // ==>  Find the Leap Year using nested if-else
 
